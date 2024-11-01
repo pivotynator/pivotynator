@@ -14,7 +14,7 @@ Skins that I use when playing on stream
 ## [ RAFIS 2018-03-26 HDDT ](https://mega.nz/folder/yN8WEL5Q#ZsYbwaJI55WsremnksUSLQ)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/11.jpg)
 
-## [ Sytho Alfie 1.25 ](https://drive.google.com/drive/folders/1TD8NRKw795CHtYt74w26uu37-53rv7YZ)
+## [ Sytho Alfie 1.2 ](https://drive.google.com/drive/folders/1TD8NRKw795CHtYt74w26uu37-53rv7YZ)
 ![](https://i.imgur.com/spI4mHz.jpeg)
 
 ## [ vv_idke_trail v1.0 ](https://drive.google.com/file/d/12xHpKcdN5HNnAQnjL8JN507ZyQEEFCn-/view?usp=sharing)
